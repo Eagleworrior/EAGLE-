@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EAGLE X TRADING</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header>
+    <div class="logo">🦅 EAGLE X TRADING</div>
+    <nav>
+      <ul>
+        <li><a href="#dashboard">Dashboard</a></li>
+        <li><a href="#capsules">Capsules</a></li>
+        <li><a href="#fellowships">Fellowships</a></li>
+        <li><a href="#codex">Codex</a></li>
+        <li><a href="#profile">Profile</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="dashboard">
+      <h1>Planetary Dashboard</h1>
+      <p>Synchronize modules, monitor trades, and immortalize impact.</p>
+      <div id="metrics">
+        <!-- Dynamic metrics injected here -->
+      </div>
+    </section>
+
+    <section id="capsules">
+      <h2>Capsule Engine</h2>
+      <button onclick="launchCapsule()">Activate Capsule</button>
+      <div id="capsule-log">
+        <!-- Capsule history and ceremonial logs -->
+      </div>
+    </section>
+
+    <section id="fellowships">
+      <h2>Fellowship Registry</h2>
+      <form id="fellowshipForm">
+        <input type="text" placeholder="Contributor Name" required />
+        <input type="text" placeholder="Badge ID" required />
+        <button type="submit">Register Steward</button>
+      </form>
+      <div id="fellowshipList">
+        <!-- Registered fellows displayed here -->
+      </div>
+    </section>
+
+    <section id="codex">
+      <h2>Codex Volumes</h2>
+      <p>Access, publish, and seal volumes of ethical innovation.</p>
+      <ul id="codexArchive">
+        <!-- Codex entries rendered here -->
+      </ul>
+    </section>
+
+    <section id="profile">
+      <h2>Your Legacy</h2>
+      <p>View your contributions, badges, and ceremonial imprints.</p>
+      <div id="profileData">
+        <!-- Profile data and recognition -->
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 EAGLE X TRADING — Stewarding Memory Across Civilizations</p>
+  </footer>
+</body>
+</html>
