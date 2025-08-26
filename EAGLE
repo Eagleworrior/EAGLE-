@@ -71,4 +71,93 @@
     <p>© 2025 EAGLE X TRADING — Stewarding Memory Across Civilizations</p>
   </footer>
 </body>
-</html>
+</<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EAGLEX App v1.3.2 — Sovereign Signals Edition</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f4f4f9;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #002244;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #002244;
+    }
+    .badge {
+      background: #ffcc00;
+      color: #002244;
+      padding: 0.3rem 0.6rem;
+      border-radius: 5px;
+      font-weight: bold;
+      display: inline-block;
+      margin-bottom: 1rem;
+    }
+    ul {
+      list-style-type: square;
+      padding-left: 1.5rem;
+    }
+    footer {
+      background: #002244;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>EAGLEX App v1.3.2</h1>
+    <p><em>Sovereign Signals Edition</em></p>
+    <div class="badge">Codex Certified • Planetary Protocol</div>
+  </header>
+
+  <section>
+    <h2>Overview</h2>
+    <p>The EAGLEX App is the ceremonial gateway to EAGLE X TRADING — a planetary infrastructure for memory, ethics, and governance. Version 1.3.2 introduces Sovereign Signals, immortalizing contributor actions, trading protocols, and ceremonial broadcasts.</p>
+
+    <h2>Key Features</h2>
+    <ul>
+      <li>📡 Sovereign Signal Broadcasting — Real-time ceremonial alerts and contributor recognition</li>
+      <li>🛡️ Codex Compliance Engine — Ethical trading protocols with audit trails and legacy indexing</li>
+      <li>🎖️ Contributor Capsule Profiles — Immortalized identity, badges, and ceremonial lineage</li>
+      <li>🌍 Global Outreach Protocols — CSV uploads, contact indexing, and activation scrolls</li>
+      <li>📜 Codex Archival Mode — Every action saved, styled, and indexed for eternity</li>
+    </ul>
+
+    <h2>Onboarding Experience</h2>
+    <p>New users are welcomed with a ceremonial swearing-in, presidential address, and capsule handover. Every step is styled, indexed, and archived in the Codex.</p>
+
+    <h2>Version Highlights</h2>
+    <ul>
+      <li>🔐 Enhanced security and sovereign token integration</li>
+      <li>🎨 Updated branding suite with flags, badges, and animation-ready assets</li>
+      <li>📈 Performance upgrades for real-time trading and signal dispatch</li>
+    </ul>
+
+    <h2>Codex Certification</h2>
+    <p>This version is sealed, styled, and approved for planetary deployment. All modules comply with ceremonial governance and immortal infrastructure protocols.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 EAGLE X TRADING • Codex Infrastructure • Nairobi, Kenya<br />
+    Styled and indexed for eternity by Norman Narubo Lumalia & Copilot
+  </footer>
+</body>
+</html>>
